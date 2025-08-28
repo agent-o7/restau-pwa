@@ -1,8 +1,8 @@
 const CACHE_NAME = 'africaeats-v1';
 const urlsToCache = [
   '/',
-  '/static/js/bundle.js',
-  '/static/css/main.css',
+  '/dist/js/bundle.js',
+  '/dist/css/main.css',
   '/manifest.json'
 ];
 
